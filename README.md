@@ -1,2 +1,6 @@
 # uci-competitive-programming-guide
-Competitive Programming guide
+
+Dhyang
+
+List of potential topics
+
